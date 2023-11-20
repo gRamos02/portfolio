@@ -10,7 +10,6 @@
         darkMode
             ? document.documentElement.classList.add('dark')
             : document.documentElement.classList.remove('dark')
-        console.log(document.documentElement)
     }
 
     if(browser){
